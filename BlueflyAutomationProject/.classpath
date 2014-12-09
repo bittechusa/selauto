@@ -3,5 +3,10 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/selenium"/>
+<<<<<<< HEAD
+	<classpathentry kind="lib" path="C:/Users/sohel/Downloads/selenium-server-standalone-2.44.0.jar"/>
+=======
+	<classpathentry kind="lib" path="C:/Users/Jahidul Islam/Downloads/selenium-server-standalone-2.44.0.jar"/>
+>>>>>>> 252a631266658c49904f27e59cd6984bad74a6f7
 	<classpathentry kind="output" path="bin"/>
 </classpath>
