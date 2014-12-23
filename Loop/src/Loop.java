@@ -16,7 +16,8 @@ public class Loop
 		/*driver.findElement(By.xpath(".//*[@id='main-nav-new']/a")).click();		
 		Thread.sleep(5000);		
 		int newArrivalProductSize = driver.findElements(By.xpath("//div[@id='productGridContainer']/div")).size();
-		System.out.println(newArrivalProductSize);			
+		System.out.println(newArrivalProductSize);	
+				
 		for(int a = 1; a < newArrivalProductSize; a++)
 		{
 			driver.findElement(By.xpath("//div[@id='productGridContainer']/div["+a+"]")).click();
@@ -38,6 +39,7 @@ public class Loop
 			driver.navigate().back();
 			Thread.sleep(5000);
 		}
+		//driver.close();
 
 	}
 
