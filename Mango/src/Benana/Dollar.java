@@ -13,7 +13,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  
         void type(By moga,String Test)
        {
-    	t.
+    	
     	
        }
       public Dollar(FirefoxDriver l)

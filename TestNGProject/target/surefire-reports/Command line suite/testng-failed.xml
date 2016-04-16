@@ -6,8 +6,7 @@
       <class name="SmokeTest">
         <methods>
           <include name="m1"/>
-          <include name="m2"/>
-          <include name="logIn" invocation-numbers="0 1"/>
+          <include name="logIn"/>
         </methods>
       </class> <!-- SmokeTest -->
     </classes>
